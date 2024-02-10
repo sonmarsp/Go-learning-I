@@ -1,0 +1,11 @@
+# config.yaml
+SITE:
+  TITLE: Test
+
+# mysql", "root:zx12qw21@tcp(10.17.101.229:3306)/vtigercrm")
+
+DB:
+  HOST: "10.17.101.229:3306"
+  USERNAME: "root"
+  PASWORD: "zx12qw21"
+  NAME: "vtigercrm"

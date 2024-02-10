@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "parallel-test-eg1"
+		},
+		{
+			"path": "parallel-test-eg2"
+		},
+		{
+			"path": "race-eg1"
+		}
+	]
+}

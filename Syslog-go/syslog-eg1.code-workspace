@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "syslog-eg1"
+		},
+		{
+			"path": "syslog-read-eg2"
+		},
+		{
+			"path": "syslog-read-eg3"
+		},
+		{
+			"path": "tcp-server-eg4"
+		},
+		{
+			"path": "tcp-client-eg5"
+		},
+		{
+			"path": "tcp-server-eg6"
+		}
+	]
+}

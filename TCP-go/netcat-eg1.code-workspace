@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "netcat-eg1"
+		},
+		{
+			"path": "../Goroutines-parallel-go/parallel-test-eg1"
+		},
+		{
+			"path": "../Goroutines-parallel-go/parallel-test-eg2"
+		},
+		{
+			"path": "clock1-book-eg1"
+		},
+		{
+			"path": "clock2-book-eg1"
+		}
+	]
+}

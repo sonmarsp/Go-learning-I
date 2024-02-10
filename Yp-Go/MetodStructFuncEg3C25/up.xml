@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<!DOCTYPE putTicketResolution SYSTEM "up.dtd">
+<putTicketResolution>
+<ticket id='4993179'>
+ <text>
+ ddd
+
+ </text>
+ <notes>
+ fff
+ </notes>
+</ticket>
+</putTicketResolution>

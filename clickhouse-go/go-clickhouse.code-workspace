@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "go-clickhouse-eg1"
+		},
+		{
+			"path": "go-clickhouse-eg2"
+		},
+		{
+			"path": "go-clickhouse-eg3"
+		},
+		{
+			"path": "../TLS-go/tls-check-eg1"
+		},
+		{
+			"path": "go-clickhouse-eg4"
+		},
+		{
+			"path": "go-clickhouse-eg5"
+		},
+		{
+			"path": "Generator"
+		},
+		{
+			"path": "Generator-create-eg4"
+		},
+		{
+			"path": "Generator-create-eg5"
+		},
+		{
+			"path": "Generator-eg1"
+		},
+		{
+			"path": "Generator-eg2"
+		},
+		{
+			"path": "Generator-eg3"
+		}
+	],
+	"settings": {}
+}

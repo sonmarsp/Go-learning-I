@@ -1,0 +1,127 @@
+{
+	"folders": [
+		{
+			"path": "Aliases-Type-Eg1-C-2"
+		},
+		{
+			"path": "Custom-Type-Eg1-C1"
+		},
+		{
+			"path": "Defer-Eg1-C-22"
+		},
+		{
+			"path": "Embedded-Eg1-C-27"
+		},
+		{
+			"path": "Error-eg1-34-h"
+		},
+		{
+			"path": "Error-eg2-35-h"
+		},
+		{
+			"path": "Error-panic-eg1-37-h"
+		},
+		{
+			"path": "Error-panic-recover-eg1-38-h"
+		},
+		{
+			"path": "Error-puzzle-eg2-36-h"
+		},
+		{
+			"path": "FuncClosureEg5C20"
+		},
+		{
+			"path": "FuncHigherOrderEg5C20"
+		},
+		{
+			"path": "FuncManyReturnEg3C18"
+		},
+		{
+			"path": "FuncRecEg4C19"
+		},
+		{
+			"path": "FuncVariadicEg2C17"
+		},
+		{
+			"path": "Interface-Eg1-C-29"
+		},
+		{
+			"path": "Interface-Eg2-C-30"
+		},
+		{
+			"path": "LabelsEg1C4"
+		},
+		{
+			"path": "MapEg1C11"
+		},
+		{
+			"path": "MapEg2C12"
+		},
+		{
+			"path": "MapRangeEg3C13"
+		},
+		{
+			"path": "MetodFuncEg1C23"
+		},
+		{
+			"path": "MetodFuncEg2C24"
+		},
+		{
+			"path": "MetodStructFuncEg3C25"
+		},
+		{
+			"path": "Pointers-eg1-c-6"
+		},
+		{
+			"path": "Pointers-eg2-c-7"
+		},
+		{
+			"path": "Puzzle-Embedded-Eg1-C-28"
+		},
+		{
+			"path": "PuzzleMapEg4C14"
+		},
+		{
+			"path": "PuzzleMapEg5C15"
+		},
+		{
+			"path": "PuzzleMapEg6C16"
+		},
+		{
+			"path": "PuzzleMethodEg1C26"
+		},
+		{
+			"path": "Puzzle-reflect-eg1-c-33"
+		},
+		{
+			"path": "PuzzleYpEg1-C-3"
+		},
+		{
+			"path": "PuzzleYpEg2-C-5"
+		},
+		{
+			"path": "Reflect_eg1_C_31"
+		},
+		{
+			"path": "Reflect-eg2-c-32"
+		},
+		{
+			"path": "Slice-Eg1-C-8"
+		},
+		{
+			"path": "Slice-Eg2-C-9"
+		},
+		{
+			"path": "Slice-Eg3-C-10"
+		},
+		{
+			"path": "Test-eg1-39"
+		},
+		{
+			"path": "Test-mock-eg3-41"
+		},
+		{
+			"path": "Test-testify-eg2-40"
+		}
+	]
+}
