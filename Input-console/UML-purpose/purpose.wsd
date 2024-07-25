@@ -1,0 +1,11 @@
+@startuml
+Console -> Main.go: Данные в виде строки 1 22 3 44 5
+control  обработать as m2
+collections Collections as m3
+control  Алгоритм as m4
+
+Main.go -> m2
+m2 -> m3: в слайс пригодный для алгоритма
+m3 -> m4
+
+@enduml
